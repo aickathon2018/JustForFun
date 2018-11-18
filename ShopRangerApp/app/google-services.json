@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1070867452400",
+    "firebase_url": "https://smart-city-f4948.firebaseio.com",
+    "project_id": "smart-city-f4948",
+    "storage_bucket": "smart-city-f4948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070867452400:android:6e5cc5f0ffc843cb",
+        "android_client_info": {
+          "package_name": "com.example.carparkcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070867452400-dg9gji6ni81c796gj8gmmpgobkjmuppe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carparkcamera",
+            "certificate_hash": "9e5e23a473d98b2a735e5647ffcbffe4b5e45d0c"
+          }
+        },
+        {
+          "client_id": "1070867452400-pakiu94j0cb6n0cr8sbgg03e3gio1sed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQw2oZtq6cD_m-MQTGhl9yAOkN4rlPro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070867452400-pakiu94j0cb6n0cr8sbgg03e3gio1sed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070867452400:android:bb893cf697c17e3e",
+        "android_client_info": {
+          "package_name": "com.example.shopranger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070867452400-h9l9apoada5mg0oof82mfike8td2bf38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopranger",
+            "certificate_hash": "9e5e23a473d98b2a735e5647ffcbffe4b5e45d0c"
+          }
+        },
+        {
+          "client_id": "1070867452400-pakiu94j0cb6n0cr8sbgg03e3gio1sed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQw2oZtq6cD_m-MQTGhl9yAOkN4rlPro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070867452400-pakiu94j0cb6n0cr8sbgg03e3gio1sed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
